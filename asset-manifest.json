@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GimbanAI/static/css/main.301e3334.css",
+    "main.js": "/GimbanAI/static/js/main.a0362010.js",
+    "static/media/ai_avatar.png": "/GimbanAI/static/media/ai_avatar.8bdf5ffb0d5c2708ee30.png",
+    "static/media/logo.png": "/GimbanAI/static/media/logo.4d3bb0212f235fabd7e4.png",
+    "static/media/youtube_icon.png": "/GimbanAI/static/media/youtube_icon.9971f2d29b7fd23dff6c.png",
+    "index.html": "/GimbanAI/index.html",
+    "main.301e3334.css.map": "/GimbanAI/static/css/main.301e3334.css.map",
+    "main.a0362010.js.map": "/GimbanAI/static/js/main.a0362010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301e3334.css",
+    "static/js/main.a0362010.js"
+  ]
+}
